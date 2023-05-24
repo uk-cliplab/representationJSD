@@ -13,8 +13,11 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
- Additionally, it is necessary to install the representation Information theoretic learning library. Follow the instructions in https://github.com/uk-cliplab/representation-itl to install it. 
+ Additionally, it is necessary to install the representation Information theoretic learning library. 
+ 
+1) Move to folder:  ```cd representation-itl```
 
+2) Install with pip:  ```pip install -e .```
 
 ## Usage
 
