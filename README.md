@@ -46,10 +46,10 @@ python3 python3 -u TSTblobs.py \
 The achieved results in each of the experiments can be seen in the next figures:
 
 
-![Screenshot from 2023-05-24 10-56-14](https://github.com/KeiderHoyos/representationJSD/assets/84861891/a5638093-b9b9-4a4b-97b9-f07dea7126d0)
+![Screenshot from 2023-05-24 10-56-14](https://github.com/uk-cliplab/representationJSD/assets/84861891/27065b18-2af9-4be2-94c1-9b7d62c6c0d4)
 
 
-![Screenshot from 2023-05-24 10-56-46](https://github.com/KeiderHoyos/representationJSD/assets/84861891/7db3f3c9-d2f1-4837-8d07-4bfc1860e724)
+![Screenshot from 2023-05-24 10-56-46](https://github.com/uk-cliplab/representationJSD/assets/84861891/27a6190e-6b9b-4b00-8492-faeb37e9a328)
 
 
 | Model name         | Number of modes |  KL divergence |
