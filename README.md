@@ -52,7 +52,6 @@ The achieved results in each of the experiments can be seen in the next figures:
 ![Screenshot from 2023-05-24 10-56-46](https://github.com/uk-cliplab/representationJSD/assets/84861891/27a6190e-6b9b-4b00-8492-faeb37e9a328)
 
 
-| Model name         | Number of modes |  KL divergence |
-| ------------------ |---------------- | -------------- |
-| Representation JSD |     1000        |     0.04       |
+![Screenshot from 2023-05-26 09-36-12](https://github.com/uk-cliplab/representationJSD/assets/84861891/66669887-6a94-4b9c-97a6-6340e0253c97)
+
 
