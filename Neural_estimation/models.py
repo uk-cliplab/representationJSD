@@ -17,7 +17,7 @@ class RFF_tuneable(torch.nn.Module):
             self.weight = torch.nn.Parameter(w_init,requires_grad = True)
             self.bias = torch.nn.Parameter(bias_init,requires_grad = True)
 
-        self.sigma = torch.nn.Parameter(sigma_init, requires_grad=True)
+        self.sigma = torch.nn.Parameter(sigma_init, requires_grad=False)
         self.d_out = d_out # necessary to normalize the FF
         self.variant = variant
 

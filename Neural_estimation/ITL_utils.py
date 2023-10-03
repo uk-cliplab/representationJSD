@@ -18,7 +18,7 @@ def vonNeumannEntropy(K, lowRank = False, rank = None):
         mek = ek[mk]
 
     mek = mek/mek.sum()   
-    H = -1*torch.sum(mek*torch.log2(mek))
+    H = -1*torch.sum(mek*torch.log(mek))
     return H
 
 
